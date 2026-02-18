@@ -1,0 +1,65 @@
+{
+  "name": "遠雷 琥珀の車検証NFT #LM500h",
+  "description": "レクサス LM500h EXECUTIVE仕様のデジタル車検証です。本NFTは車両のスペックおよび所有権を証明します。",
+  "image": "https://ipfs.io/ipfs/QmUAoxGBue8RAfyohcY58YZfge64FxA24xehbTUAwc7hsz/images/2.jpg",
+  "attributes": [
+    {
+      "trait_type":"車検証PDF",
+      "value":"https://ipfs.io/ipfs/QmUAoxGBue8RAfyohcY58YZfge64FxA24xehbTUAwc7hsz/images/6.pdf"
+    },
+    {
+      "trait_type":"自賠責保険証書PDF",
+      "value":"https://ipfs.io/ipfs/QmUAoxGBue8RAfyohcY58YZfge64FxA24xehbTUAwc7hsz/images/5.pdf"
+    },
+    {
+      "trait_type":"CANデータ格納場所URL",
+      "value":"https://opensea.io/"
+    },
+    {
+      "trait_type": "Owner Name",
+      "value": "遠雷 琥珀"
+    },
+    {
+      "trait_type": "Model Number",
+      "value": "TAWG15L-AWZBZT"
+    },
+    {
+      "trait_type": "Engine Model",
+      "value": "T24A-1VM-1WM"
+    },
+    {
+      "trait_type": "Body Type",
+      "value": "Box-type"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Vehicle Weight",
+      "value": 2460,
+      "suffix": "kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Gross Vehicle Weight",
+      "value": 2680,
+      "suffix": "kg"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Length",
+      "value": 512,
+      "suffix": "cm"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Width",
+      "value": 189,
+      "suffix": "cm"
+    },
+    {
+      "display_type": "number",
+      "trait_type": "Height",
+      "value": 195,
+      "suffix": "cm"
+    }
+  ]
+}
